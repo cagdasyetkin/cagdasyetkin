@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Front End Interface of Goal Busters**
 
-- Some of my past projects are on Datapao blog [https://datapao.com/blog/](https://datapao.com/blog/)
+- 📝 Some of my past projects are on Datapao blog [https://datapao.com/blog/](https://datapao.com/blog/)
 
 - 📝 I regularly write articles on Coding Nomads [https://codingnomads.co/](https://codingnomads.co/)
 
