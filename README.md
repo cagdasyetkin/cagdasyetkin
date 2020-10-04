@@ -13,7 +13,7 @@
 
 - 📝 Some of my past projects are on Datapao blog [https://datapao.com/blog/](https://datapao.com/blog/)
 
-- 📝 I regularly write articles on Coding Nomads [https://codingnomads.co/](https://codingnomads.co/)
+- 📝 I regularly write articles on Coding Nomads [https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/](https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/)
 
 - 💬 Ask me about **Apache Spark, Python, R**
 
