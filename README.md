@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **[Goal Busters](https://betalertpro.com)**
 
-- 📝 Some of my past projects are here [cagdasyetkin](https://cagdasyetkin.github.io/final.html)  
+- 📝 Some of my past projects are here [my blog](https://cagdasyetkin.github.io/final.html)  
 
-- 📝 I regularly write articles on Coding Nomads [https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/](https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/)
+- 📝 I regularly write articles on Coding Nomads [codingnomads](https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/)
 
 - 💬 Ask me about **Apache Spark, Python, R, SQL**
 
