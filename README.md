@@ -13,7 +13,7 @@
 
 - 📝 Some of my past projects are here [my blog](https://cagdasyetkin.github.io/final.html)  
 
-- 📝 I regularly write articles on Coding Nomads [codingnomads](https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/)
+- 📝 I sometimes write articles on Coding Nomads [codingnomads](https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/)
 
 - 💬 Ask me about **Apache Spark, Python, R, SQL**
 
