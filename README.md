@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a sports analytics application @ [Goal Busters](https://www.youtube.com/watch?v=6GeOs_KrY2M)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Django**
 
 - 👯 I’m looking to collaborate on **Sports Analytics**
 
