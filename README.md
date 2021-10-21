@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cagdasyetkin" alt="cagdasyetkin" /> </p>
 
-- 🔭 I’m currently working on [Goal Busters](https://betalertpro.com)
+- 🔭 I’m currently working on a sports analytics application @ [Goal Busters](https://www.youtube.com/watch?v=6GeOs_KrY2M)
 
-- 🌱 I’m currently learning **Flask, Kafka**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Sports Analytics**
 
 - 🤝 I’m looking for help with **[Goal Busters](https://betalertpro.com)**
 
-- 📝 Some of my past projects are here [my blog](https://cagdasyetkin.github.io/final.html)  
+- 📝 Some of my past projects from studies are here [my blog](https://cagdasyetkin.github.io/final.html)  
 
-- 📝 I sometimes write articles on Coding Nomads [codingnomads](https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/)
+- 📝 I sometimes(!) write articles on Coding Nomads (ok perhaps I should write more) [codingnomads](https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/)
 
-- 💬 Ask me about **Apache Spark, Python, R, SQL**
+- 💬 Ask me about **Apache Spark, Python, R, SQL, How to learn and study**
 
 - 📫 How to reach me **cagdasyetkin@yahoo.com**
 
