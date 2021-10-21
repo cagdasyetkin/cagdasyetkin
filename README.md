@@ -14,6 +14,7 @@
 - 📝 Some of my past projects from studies are here [my blog](https://cagdasyetkin.github.io/final.html)  
 
 - 📝 I sometimes(!) write articles on Coding Nomads (ok perhaps I should write more) [codingnomads](https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/)
+- 📝 I sometimes do mentoring @ Coding Nomads [codingnomads](https://codingnomads.co/)
 
 - 💬 Ask me about **Apache Spark, Python, R, SQL, How to learn and study**
 
