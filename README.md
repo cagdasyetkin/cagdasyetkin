@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cagdasyetkin" alt="cagdasyetkin" /> </p>
 
-- 🔭 I’m currently working on a sports analytics application with Team @ [Goal Busters] on (https://www.betalertpro.com)
+- 🔭 I’m currently working on a sports analytics application with Team Goal Busters on www.betalertpro.com
 
 - 🌱 I’m currently learning **React** and **Django**
 
