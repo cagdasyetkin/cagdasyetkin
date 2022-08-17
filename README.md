@@ -3,17 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cagdasyetkin" alt="cagdasyetkin" /> </p>
 
-- 🔭 I’m currently working on a sports analytics application with Team Goal Busters on www.betalertpro.com
+- 🔭 I’m currently working on a sports analytics application predicting the goals before they happen
 
 - 🌱 I’m currently learning **React** and **Django**
 
 - 👯 I’m looking to collaborate on **Sports Analytics**
 
-- 🤝 I’m looking for help with **[Goal Busters](https://betalertpro.com)**
+- 🤝 I’m looking for help with Sports Analytics
 
 - 📝 Some of my past projects from studies are here [my blog](https://cagdasyetkin.github.io/final.html)  
 
 - 📝 I sometimes(!) write articles on Coding Nomads (ok perhaps I should write more) [codingnomads](https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/)
+
+- 📝 You can check me on Coding Nomads TechTalk in live action [codingnomads](https://www.youtube.com/watch?v=2Lb-STlkIkI&t=225s&ab_channel=CodingNomads)
+
 - 📝 I sometimes do mentoring @ Coding Nomads [codingnomads](https://codingnomads.co/)
 
 - 💬 Ask me about **Apache Spark, Python, R, SQL, How to learn and study**
