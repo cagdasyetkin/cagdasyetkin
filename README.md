@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on a sports analytics application predicting the goals before they happen
 
-- 🌱 I’m currently learning **React** and **Django**
-
 - 👯 I’m looking to collaborate on **Sports Analytics**
 
 - 🤝 I’m looking for help with Sports Analytics
